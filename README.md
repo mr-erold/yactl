@@ -1,2 +1,2 @@
-# yactl
-Yet Another Console Table (Format) Library
+# Yet Another Console Table (Format) Library (YACTL)
+
